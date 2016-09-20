@@ -1,0 +1,1 @@
+For OSX users, you can use [Homebrew](http://brew.sh/) or [MAMP](https://www.mamp.info/en/).
