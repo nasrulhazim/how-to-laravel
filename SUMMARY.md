@@ -4,6 +4,7 @@
    * [Authors](authors.md)
 * Tools
    * Text Editor
+   * SQL Editor
 * Environments
 * The Basic
 * Database
