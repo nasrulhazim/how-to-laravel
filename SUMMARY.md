@@ -5,7 +5,7 @@
 * Tools
    * [Text Editor](text_editor.md)
    * [SQL Editor](sql_editor.md)
-   * Version Control
+   * [Version Control](version_control.md)
 * Environments
 * The Basic
 * Database
