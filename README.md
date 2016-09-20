@@ -2,67 +2,66 @@
 
 ## Contents
 
-1. Introduction
-2. Tools
-  3. Text Editor
-  4. SQL Editor
-  5. Version Control
-6. Environments
-  7. Windows
-  8. Linux
-  9. OSX
-10. The Basic
-  11. Routing
-  12. Controllers
-  13. Views
-  14. Blade Templates
-15. Database
-  16. Migrations
-  17. Seeding
-  18. Factory
-19. Eloquent
-  20. Create, Read, Update and Delete
-  21. Relationship (one-to-one, one-to-many)
-22. Package
-  23. Laratrust
-  24. Collective
-25. Command
-  26. How to Create A Command?
-  27. How to Register A Command?
-  28. How to Register A Command in Service Provider?
-  29. How to Call Other Artisan Command?
-  30. How to Get the Arguments?
-  31. How to Get the Options?
-  32. How to Get User's Input?
-33. Notifications
-  34. How to Setup Mail Notification?
-  35. How to Create a Notification?
-  36. How to Use the Notification?
-  37. How to Trigger Notification?
-38. Event & Listener
-  39. How to Create Event?
-  40. How to Create Listener?
-  41. How to Register Event and Listener?
-  42. How to Trigger an Event?
-43. Queues
-  44. How to Create Queue?
-  45. How to Trigger a Queue?
-  46. How to Run A Queue?
-47. Package Development
-  48. Configuration
-  49. How to Register Your Package with Application?
-  50. How to Publish Your Package to Packagist?
-51. Elixir
-  52. Installation
-  53. Configuration
-  54. Packages
-  55. Usage
-56. Middleware	
-  57. How to Create a Middleware?
-  58. How to Create a Before Middleware?
-  59. How to Create an After Middleware?	
-60. Vue.js
-  61. How to Create Vue Component in Laravel 5.3?
-  62. How to Bind Model?
-  63. How to Create Functions?
-  64. How to Call an Ajax?
+* [Introduction](introduction.md)
+* [Tools](tools.md)
+  * [Text Editor](text_editor.md)
+  * [SQL Editor](sql_editor.md)
+  * [Version Control](version_control.md)
+* [Environments](environments.md)
+  * [Windows](windows.md)
+  * [Linux](linux.md)
+  * [OSX](osx.md)
+* [The Basic](the_basic.md)
+  * [Routing](routing.md)
+  * [Controllers](controllers.md)
+  * [Views](views.md)
+  * [Blade Templates](blade_templates.md)
+* [Database](database.md)
+  * [Migrations](migrations.md)
+  * [Seeding](seeding.md)
+  * [Factory](factory.md)
+* [Eloquent](eloquent.md)
+  * [Create, Read, Update and Delete](create_read_update_and_delete.md)
+  * [Relationship](relationship.md)
+* [Package](package.md)
+  * [Laratrust](laratrust.md)
+  * [Collective](collective.md)
+* [Command](command.md)
+  * [How to Create A Command?](how_to_create_a_command.md)
+  * [How to Register A Command?](how_to_register_a_command.md)
+  * [How to Register A Command in Service Provider?](how_to_register_a_command_in_service_provider.md)
+  * [How to Call Other Artisan Command?](how_to_call_other_artisan_command.md)
+  * [How to Get the Arguments?](how_to_get_the_arguments.md)
+  * [How to Get the Options?](how_to_get_the_options.md)
+  * [How to Get User's Input?](how_to_get_the_user_s_input.md)
+* [Notifications](notifications.md)
+  * [How to Setup Mail Notification?](how_to_setup_mail_notification.md)
+  * [How to Create a Notification?](how_to_create_a_notification.md)
+  * [How to Use the Notification?](how_to_use_the_notification.md)
+  * [How to Trigger Notification?](how_to_trigger_notification.md)
+* [Event & Listener](event_and_listener.md)
+  * [How to Create Event?](how_to_create_event.md)
+  * [How to Create Listener?](how_to_create_listener.md)
+  * [How to Register Event and Listener?](how_to_register_event_and_listener.md)
+  * [How to Trigger an Event?](how_to_trigger_an_event.md)
+* [Queues](queues.md)
+  * [How to Create Queue?](how_to_queue.md)
+  * [How to Trigger a Queue?](how_to_trigger_a_queue.md)
+  * [How to Run A Queue?](how_to_run_a_queue.md)
+* [Package Development](package_development.md)
+  * [How to Configure Your Package?](how_to_configure_your_package.md)
+  * [How to Register Your Package with Application?](how_to_register_your_package_with_application.md)
+  * [How to Publish Your Package to Packagist?](how_to_pulbish_your_package_to_packagist.md)
+* [Elixir](elixir.md)
+  * [How to Install Elixir?](how_to_install_elixir.md)
+  * [How to Configure Elixir?](how_to_configure_elixir.md)
+  * [How to Use Elixir?](how_to_use_elixir.md)
+* [Middleware](middleware.md)
+  * [How to Create a Middleware?](how_to_create_a_middleware.md)
+  * [How to Create a Before Middleware?](how_to_create_a_before_middleware.md)
+  * [How to Create an After Middleware? ](how_to_create_an_after_middleware.md)
+* [Vue.js](vuejs.md)
+  * [How to Create Vue Component in Laravel 5.3?](how_to_create_vue_component_in_laravel_53.md)
+  * [How to Bind Model?](how_to_bind_model.md)
+  * [How to Create Functions?](how_to_create_functions.md)
+  * [How to Call an Ajax?](how_to_call_an_ajax.md)
