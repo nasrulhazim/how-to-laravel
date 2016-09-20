@@ -14,4 +14,5 @@
 * Queues
 * Package Development
 * Elixir
+* Middleware
 
