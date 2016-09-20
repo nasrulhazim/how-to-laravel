@@ -14,7 +14,7 @@
    * [Controllers](controllers.md)
    * [Views](views.md)
    * [Blade Templates](blade_templates.md)
-   * Application Insllation
+   * [Application Insllation](application_installation.md)
 * [Database](database.md)
    * [Migrations](migrations.md)
    * [Seeding](seeding.md)
