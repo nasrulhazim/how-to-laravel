@@ -11,4 +11,5 @@
 * Command
 * Notifications
 * Event & Listener
+* Queues
 
