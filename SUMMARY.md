@@ -4,7 +4,7 @@
    * [Authors](authors.md)
 * Tools
    * [Text Editor](text_editor.md)
-   * SQL Editor
+   * [SQL Editor](sql_editor.md)
    * Version Control
 * Environments
 * The Basic
