@@ -10,7 +10,7 @@
    * [Linux](linux.md)
    * [OSX](osx.md)
 * [The Basic](the_basic.md)
-   * [Application Insllation](application_installation.md)
+   * [Application Installation](application_installation.md)
    * [Routing](routing.md)
    * [Controllers](controllers.md)
    * [Views](views.md)
