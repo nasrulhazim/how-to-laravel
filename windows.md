@@ -1,0 +1,1 @@
+For Windows users, it's recommended to use [Laragon](http://laragon.org).
