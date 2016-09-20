@@ -9,4 +9,5 @@
 * Eloquent
 * Package
 * Command
+* Notifications
 
