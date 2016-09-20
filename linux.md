@@ -1,0 +1,1 @@
+For Linux users, you just need to install LAMP Stack.
