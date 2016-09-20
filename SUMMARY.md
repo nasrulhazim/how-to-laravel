@@ -5,6 +5,7 @@
 * Tools
    * Text Editor
    * SQL Editor
+   * Version Control
 * Environments
 * The Basic
 * Database
