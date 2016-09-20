@@ -3,6 +3,7 @@
 * [Introduction](README.md)
    * [Authors](authors.md)
 * Tools
+   * Text Editor
 * Environments
 * The Basic
 * Database
