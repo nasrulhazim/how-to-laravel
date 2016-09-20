@@ -8,4 +8,5 @@
 * Database
 * Eloquent
 * Package
+* Command
 
