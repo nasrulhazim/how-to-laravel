@@ -3,7 +3,7 @@
 * [Introduction](README.md)
    * [Authors](authors.md)
 * Tools
-   * Text Editor
+   * [Text Editor](text_editor.md)
    * SQL Editor
    * Version Control
 * Environments
