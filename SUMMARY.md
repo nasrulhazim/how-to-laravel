@@ -13,4 +13,5 @@
 * Event & Listener
 * Queues
 * Package Development
+* Elixir
 
