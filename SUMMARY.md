@@ -15,4 +15,5 @@
 * Package Development
 * Elixir
 * Middleware
+* Vue.js
 
