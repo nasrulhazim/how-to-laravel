@@ -7,4 +7,5 @@
 * The Basic
 * Database
 * Eloquent
+* Package
 
